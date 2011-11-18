@@ -7,7 +7,7 @@
  */
 function campuscms_profile_install() {
   $themes = array(
-    'default' => 'inception',
+    'default' => 'bartik',
     'admin' => 'seven',
   );
   

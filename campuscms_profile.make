@@ -77,12 +77,3 @@ projects[campuscms_feature_news][download][type] = git
 projects[campuscms_feature_news][download][url] = git://github.com/amoore5/campuscms-feature-news.git
 projects[campuscms_feature_news][download][branch] = master
 projects[campuscms_feature_news][subdir] = custom/features
-
-; Theme ========================================================================
-projects[zen] = 3.1
-projects[inception][type] = theme
-projects[inception][version] = 2.x-dev
-projects[inception][download][type] = git
-projects[inception][download][url] = git@bardstale.ucmerced.edu:cms-theme-inception.git
-projects[inception][download][branch] = 7.x-2.x
-projects[inception][directory_name] = inception
