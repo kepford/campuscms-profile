@@ -48,7 +48,7 @@ projects[smtp] = 1.0-beta1
 
 ; Patch for issue http://drupal.org/node/1309176
 projects[strongarm] = 2.0-beta4
-projects[strongarm][patch][] = "http://drupal.org/files/export-query-error-1309176-1.patch"
+;projects[strongarm][patch][] = "http://drupal.org/files/export-query-error-1309176-1.patch"
 
 projects[token] = 1.0-beta7
 
